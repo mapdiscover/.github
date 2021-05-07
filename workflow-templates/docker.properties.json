@@ -1,0 +1,8 @@
+{
+    "name": "MapDiscover Docker Build & Push Workflow",
+    "description": "MapDiscover Docker Build & Push Workflow Template",
+    "iconName": "docker",
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
